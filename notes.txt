@@ -1,0 +1,19 @@
+gh repo create
+
+ctrl shift c (to copy from terminal)
+ctrl shift v (to paste  pefrom terminal)
+
+ctrl alt up arrow
+ctrl alt down arrow
+
+
+alt shift up arrow
+alt shift down arrow
+
+
+ctrl shift l
+
+ctrl d
+
+ctrl shift left arrow
+ctrl shift right arrow
